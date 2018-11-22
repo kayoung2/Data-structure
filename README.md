@@ -5,7 +5,7 @@
 
 ### Homework1
 
-### 결과화면
+#### - 결과화면
 
 ![default](https://user-images.githubusercontent.com/45006693/48918465-1653d080-eed0-11e8-88ec-15909919194f.PNG)
 
@@ -13,7 +13,7 @@
 
 ### Homework2
 
-### 결과화면
+#### - 결과화면
 
 ![factorial](https://user-images.githubusercontent.com/45006693/48918490-41d6bb00-eed0-11e8-9816-d7de7ac3fdae.png)
 
