@@ -7,7 +7,7 @@
 
 #### - 결과화면
 
-![default](https://user-images.githubusercontent.com/45006693/48918465-1653d080-eed0-11e8-88ec-15909919194f.PNG)
+![default](https://user-images.githubusercontent.com/45006693/48918534-8eba9180-eed0-11e8-85ed-ed02826fa839.PNG)
 
 #
 
